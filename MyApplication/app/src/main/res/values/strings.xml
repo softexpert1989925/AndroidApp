@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="record">RECORD</string>
+    <string name="stopPlayRecord">STOP PLAYING RECORD</string>
+</resources>
